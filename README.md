@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gusta-oliveira
 - 👀 I’m interested in trabalhar na área de desenvolvimento
 - 🌱 I’m currently learning python, mas posso aderir outras lingusgens
-- 💞️ I’m looking to collaborate in equipe, dando meu melhor para alcançar resultados
+- 💞️ I’m looking to collaborate in equipe dando meu melhor para alcançar resultados
 - 📫 How to reach me: gustavo.ramosue@gmail.com or (16)98160-3823
 
 <!---
