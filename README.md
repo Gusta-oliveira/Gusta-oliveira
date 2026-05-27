@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Gusta-oliveira
-- 👀 I’m interested in trabalhar na área de desenvolvimento
-- 🌱 I’m currently learning python, mas posso aderir outras lingusgens
-- 💞️ I’m looking to collaborate in equipe dando meu melhor para alcançar resultados
-- 📫 How to reach me: gustavo.ramosue@gmail.com or (16)98160-3823
+👋 Hi, I’m @Gusta-oliveira
+👀 I’m interested in working in the software development field
+🌱 I’m currently learning C# to .Net
+💞️ I’m looking to collaborate with a team and give my best to achieve great results
+- 📫 How to reach me: gustavo.ramosue@gmail.com or (16)992893473
 
 <!---
 Gusta-oliveira/Gusta-oliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
